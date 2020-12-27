@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Gang Wolfik';
+    src: url('Gang-Wolfik.woff2') format('woff2'),
+        url('Gang-Wolfik.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
