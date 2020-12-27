@@ -3,16 +3,15 @@ body {
 }
 .b {
     position: absolute;
-    top:60%;
-    right: 41%;
+    top:20%;
+    left: 1%;
 font-family: Gang Wolfik;
 font-size: 100px; font-weight: 200;
 }
 .text {
     position: absolute;
-    top: 50%; 
-    right: 50%;
-    transform: translate(50%,-50%);
+    top: 0; 
+    left: 0;
     font-family: Gang Wolfik;
     font-size: 12em;
     font-weight: 700;
